@@ -1,3 +1,4 @@
+```
 void setup() {
  for(int i=2;i<=6;i++){
  pinMode(i,OUTPUT);
@@ -30,3 +31,5 @@ digitalWrite(2,LOW);
       digitalWrite(6,LOW);
       delay(3000);
 }
+```
+!["homework1"](https://github.com/zk666999/homework/blob/master/IMG_20170625_013533.jpg)
